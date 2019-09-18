@@ -1,0 +1,50 @@
+navegarALaPagina(){
+    Abrir el navegador
+    ingresar el link en la barra de navegacion.
+}
+
+verificarPaginaPrincipal(){
+    Verificar que cargan los elementos de la pagina principal:
+        logo
+        menu
+        imagen sinatra
+        link login
+        parrafo de bienvenida
+}
+
+ login(){
+    Seleccionar el enlace Log in
+    Verificar la carga de los elementos en Log in
+        campo de username
+        campo de password
+        boton de login
+    Ingresar la informacion en los campos
+    Dar click en el boton Log in
+
+  }
+
+verificarPaginaLogin(){
+  Validaciòn del mensaje que indica el Login en la pagina
+  Validaciòn del enlace Log out
+}
+
+crearCancion(){
+    Seleccionar en el Menú el Item SONGS
+    Seleccionar Link create a new song
+    Diligenciar el formulario con los campos:
+        Title
+        length
+        Date
+        Lyrics
+    Seleccionar opción Save Song
+}
+
+validarPaginaCrearCancion(){
+    Validar interfaz de confirmación de almacenamiento
+    Mensaje de confirmación
+        Titulo
+        Fecha
+        Tamaño
+        Letra
+}
+
